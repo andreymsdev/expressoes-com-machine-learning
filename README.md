@@ -1,13 +1,10 @@
 # *Expressões com Machine Learning*
 
-
 ---
-
-
 
 ## Proposta
 
-> Aqui utilizo IA para detectar expressões. Utilizando Machine Learning e análise emocional. 
+> Aqui utilizo IA para detectar expressões. Utilizando Machine Learning e análise emocional.
 
 <img src="images/faces.jpg" alt="Expressões faciais" width="600">
 
@@ -63,8 +60,3 @@ Instale as dependências:
 </p>
 
 Realizei esse projeto com o intuito de me divertir e aprender; quando iniciei buscava descobrir quem matou a Odete Rotiman kkkkk, mas acabou não conclui totalmente, apesar de ser um código funcional. Mas me diverti muito no processo!
-
-`<p align="">`
-
-  <img src="images/yoheimito.png" alt="foto" width="450">
-</p>
