@@ -1,12 +1,13 @@
 # *Expressões com Machine Learning*
 
-<img src="images/odete.jpg" alt="Cena da m0rte de Odete Roitman" width="600">
 
 ---
 
+
+
 ## Proposta
 
-> Aqui utilizo IA para tentar descobrir quem matou Odete. Utilizando Machine Learning e análise emocional. Gerando um ranking de suspeitos
+> Aqui utilizo IA para detectar expressões. Utilizando Machine Learning e análise emocional. 
 
 <img src="images/faces.jpg" alt="Expressões faciais" width="600">
 
@@ -52,4 +53,18 @@ Instale as dependências:
 ```bash
   pip install -r requirements.txt
 ```
-# express-es-com-machine-learning
+
+---
+
+# Declarações
+
+<p align="">
+  <img src="images/foto.jpeg" alt="foto" width="600">
+</p>
+
+Realizei esse projeto com o intuito de me divertir e aprender; quando iniciei buscava descobrir quem matou a Odete Rotiman kkkkk, mas acabou não conclui totalmente, apesar de ser um código funcional. Mas me diverti muito no processo!
+
+`<p align="">`
+
+  <img src="images/yoheimito.png" alt="foto" width="450">
+</p>
