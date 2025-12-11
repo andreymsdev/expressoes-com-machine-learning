@@ -53,10 +53,3 @@ Instale as dependências:
 
 ---
 
-# Declarações
-
-<p align="">
-  <img src="images/foto.jpeg" alt="foto" width="600">
-</p>
-
-Realizei esse projeto com o intuito de me divertir e aprender; quando iniciei buscava descobrir quem matou a Odete Rotiman kkkkk, mas acabou que não conclui totalmente. Mas fico contente que o código está funcional.
