@@ -38,13 +38,6 @@ Link oficial: [https://www.kaggle.com/datasets/msambare/fer2013](https://www.kag
 
 ## Como rodar o projeto?
 
-Clone o repositório:
-
-```bash
-   git clone https://github.com/seu-usuario/quem-matou-odete.git
-   cd quem-matou-odete
-```
-
 Instale as dependências:
 
 ```bash
